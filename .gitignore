@@ -1,0 +1,18 @@
+# Build Folders
+bin/
+obj/
+Migrations/
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
