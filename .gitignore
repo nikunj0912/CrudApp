@@ -9,6 +9,7 @@ Migrations/
 *.userosscache
 *.suo
 *.userprefs
+*.json
 
 # Windows Installer files
 *.cab
